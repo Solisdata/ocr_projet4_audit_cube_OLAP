@@ -23,13 +23,13 @@ L'objectif du projet est d’identifier les problèmes actuels et de réaliser u
     - Agrégation des données dans un Cube OLAP - Azure Analysis Services
     - Visualisation des résultats - PowerBI
       
-2. **Création d'un dictionnaire et d'un schéma des données du cube OLAP **
+2. **Création d'un dictionnaire et d'un schéma des données du cube OLAP**
    
-3. **Réalisation un prototype en local avec les données du cube OLAP **
+3. **Réalisation un prototype en local avec les données du cube OLAP**
     - Chargement des données dans PostGreSQL
     - Requêtes métiers pour vérifier le chiffre d'affaire
    
-4. ** Compréhension des problèmes sur la base des logs **
+4. **Compréhension des problèmes sur la base des logs**
    - Analyse de la table de logs
    - Itération des hypothèses
    - Identification du problème de non atomicité des données  
