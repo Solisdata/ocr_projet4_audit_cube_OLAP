@@ -46,7 +46,7 @@ L'objectif du projet est d’identifier les problèmes actuels et de réaliser u
 ---
 
 ## Outils 
--`Python`
+-`Python` 
 -`PostgreSQL`  
 -`SQL architect`
 
