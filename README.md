@@ -1,7 +1,7 @@
 # OCR - Projet 4 
 ## Audit d’un environnement de données
 
-Projet réalisé dans le cadre de la formation **Data Engineer** d’OpenClassRoom.
+Projet réalisé dans le cadre de la formation **Data Engineer** d’OpenClassRoom.  
 Aout - Septembre 2025 
 
 ---
@@ -36,7 +36,7 @@ L'objectif du projet est d’identifier les problèmes actuels et de réaliser u
   
 8. **Proposition de recommandations et d'un plan d'action**
    - Proposition de 6 recommandations pour sécurisé le flux de données
-      - A déployer au court terme : amélioration de la table de log, atomicité des transaction, contraintes d'intégrité, gestion des droits..
+      - A déployer au court terme : amélioration de la table de log, atomicité des transaction, contraintes d'intégrité, gestion des droits...
       - A déployer au moyen terme : Monitoring ETL - Trigger
     - Intégration de ces recommandations dans le POC
 
@@ -46,7 +46,7 @@ L'objectif du projet est d’identifier les problèmes actuels et de réaliser u
 ---
 
 ## Outils 
--`Python`  
--`PostgreSQL`
+-`Python`
+-`PostgreSQL`  
 -`SQL architect`
 
